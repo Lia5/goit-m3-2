@@ -7,6 +7,12 @@ body {
   background: #000000 url(../img/background.jpg) no-repeat center;
 }
 
+a {
+  text-decoration: none;
+  font-family: "Tahoma", sans-serif;
+  color: #e6e6e6;
+}
+
 .main-container p{
   margin: 0;
   padding: 0;
